@@ -125,6 +125,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "svadobne-menu"
+    }
+  },
+  "defaultProject": "svadobne-menu",
+  "cli": {
+    "analytics": "b9e9f29e-2710-4bde-91d1-872ea02336a4"
+  }
 }
